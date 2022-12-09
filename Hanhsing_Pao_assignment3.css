@@ -1,0 +1,70 @@
+#question {
+  margin-top: 35px;
+  font-size: 25px;
+  color: rgb(77, 38, 38);
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+/*Question1*/
+.tabstyle {
+  margin: 10px;
+  width: 70%;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.thstyle {
+  background-color: rgba(233, 189, 131, 0.811);
+}
+.thstyle,
+.trstyle {
+  font-size: 15px;
+  font-weight: 1000;
+  letter-spacing: 0.5px;
+  color: rgba(61, 19, 19, 0.678);
+  padding: 10px;
+  vertical-align: top;
+  border: 1px solid rgb(231, 222, 210);
+  font-family: monospace;
+}
+
+.trstyle,
+.tdstyle {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  font-weight: normal;
+  color: rgb(188, 121, 26);
+  background-color: rgb(255, 240, 221);
+  padding: 8px;
+  text-align: center;
+  border: 1.5px solid rgb(231, 222, 210);
+  font-family: monospace;
+}
+
+/*Question2*/
+.menu {
+  align-items: center;
+  font-size: 18px;
+  letter-spacing: 1.5px;
+  font-weight: 15px;
+  color: rgb(91, 73, 41);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/*Question3*/
+.sestyle {
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 5px 10px;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border: 2px solid grey;
+  border-radius: 10px;
+}
+.optstyle {
+  align-items: center;
+  color: rgb(255, 255, 255);
+  background: rgb(65, 64, 64);
+  border: 2px solid white;
+}
